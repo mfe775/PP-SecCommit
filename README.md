@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="pp-seccommit-banner.PNG"
+       alt="PP-SecCommit — Git Hook: Secret & Entropy Guard"
+       width="100%">
+</p>
+
+
 # PP-SecCommit
 
 **PP-SecCommit** is a zero-dependency, single-file Git hook that prevents secrets and high-entropy tokens from slipping into your repository.  
